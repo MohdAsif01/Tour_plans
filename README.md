@@ -1,9 +1,10 @@
 
 
 # Tour Plans
-![Screenshot 2024-07-10 121912](https://github.com/MohdAsif01/Tour_plans/assets/163662472/a2c8fc63-0731-4c40-9c25-90cca33f5e50)
 
 Tour Plans is a React-based travel planning application that helps users explore various travel destinations. It provides detailed information and prices for each location, making it easier for users to plan their trips.
+
+![Screenshot 2024-07-10 121912](https://github.com/MohdAsif01/Tour_plans/assets/163662472/a2c8fc63-0731-4c40-9c25-90cca33f5e50)
 
 # Description
 
